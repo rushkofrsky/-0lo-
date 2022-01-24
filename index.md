@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:175%;position:relative;"><iframe src="https://giphy.com/embed/c62WM5OzhBBRkK8gze" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nude-modern-art-gears-c62WM5OzhBBRkK8gze">via GIPHY</a></p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hal0wasted/-O-J-O-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
